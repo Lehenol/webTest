@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Poiret+One&display=swap');
+
+h1.nick {
+	font-family : 'Abril Fatface', cursive;
+	}
+p.school { 
+  font-family : 'Poiret One', cursive;
+  color : #3c49f4; }
